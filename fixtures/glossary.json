@@ -1,0 +1,30 @@
+[
+  {
+    "term_id": "person-zhang-qian",
+    "canonical": "张骞",
+    "category": "person",
+    "aliases": [],
+    "note": "西汉出使西域的历史人物，简化时不得替换"
+  },
+  {
+    "term_id": "time-138-bc",
+    "canonical": "公元前138年",
+    "category": "time",
+    "aliases": ["前138年"],
+    "note": "首次出使西域的时间"
+  },
+  {
+    "term_id": "domain-silk-road",
+    "canonical": "丝绸之路",
+    "category": "domain",
+    "aliases": [],
+    "note": "学科术语，指古代东西方商贸通道"
+  },
+  {
+    "term_id": "domain-western-regions",
+    "canonical": "西域",
+    "category": "domain",
+    "aliases": [],
+    "note": "汉代对玉门关以西地区的称呼"
+  }
+]
